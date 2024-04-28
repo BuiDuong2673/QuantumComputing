@@ -1,7 +1,9 @@
 # Quantum program for Bachelor's thesis
 This repository stores the program I have developed for the experiment in my Bachelor's thesis. The experiment aims to test the accuracy of the quantum k-means
 clustering algorithm and quantum circuits for calculating Euclidean distance across different quantum platforms, including ideal simulators, noisy simulators, 
-and real quantum systems.
+and real quantum systems. Below is an example of the experiment's results.
+
+![Experiment's result example](cloud_simulator_3.png)
 * Experiment 1: Quantum k-means clustering with an ideal simulator.
   
 This experiment applies the quantum k-means clustering algorithm to cluster the Iris dataset into 3 and 2 clusters using a 30-qubit quantum circuit. The experiment
